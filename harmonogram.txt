@@ -1,0 +1,31 @@
+13 marca 2013
+- instalacja Java Development Kit
+- instalacja zintegrowanego œrodowiska programistycznego Eclipse IDE for Java Developers
+- konfigurowanie biblioteki WindowBuilder do obs³ugi swing'a
+- konfigurowanie biblioteki JMF do obs³ugi plików multimedialnych
+
+20 marca 2013
+- utworzenie g³ównego okna programu
+- dodanie przycisku z funkcj¹ odtwarzania pliku MP3 ze œcie¿ki do pliku
+- dodanie przycisku z funkcj¹ pauzowania odtwarzanego pliku MP3
+- dodanie przycisku z funkcj¹ stopowanie odtwarzanego pliku MP3
+
+27 marca 2013
+- dodanie przycisku z funkcj¹ wyboru konkretnego pliku MP3
+
+3 kwietnia 2013
+- dodanie przycisku z funkcj¹ wyboru kilku plików MP3 jednoczeœnie
+- dodanie funkcji tworzenia playlisty za pomoc¹ komponentów JList i JScrollPane
+- dodanie przycisku z funkcj¹ odtwarzania kolejnych plików MP3 z playlisty w przód
+- dodanie przycisku z funkcj¹ odtwarzania kolejnych plików MP3 z playlisty w ty³
+
+10 kwietnia 2013
+- dodanie zabezpieczeñ uniemo¿lwiaj¹cych odtwarzanie kilku plików naraz 
+- poprawa wygl¹du g³ównego okna programu
+- dodanie przycisku z funkcj¹ odtwarzania pierwszego pliku MP3 z playlisty
+- dodanie przycisku z funkcj¹ odtwarzania ostatniego pliku MP3 z playlisty
+- dodanie funkcjonalnoœci, która uniemo¿liwia wyjœæie poza zakres playlisty
+
+
+
+
