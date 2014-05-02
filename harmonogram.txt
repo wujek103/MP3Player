@@ -26,6 +26,9 @@
 - dodanie przycisku z funkcj¹ odtwarzania ostatniego pliku MP3 z playlisty
 - dodanie funkcjonalnoœci, która uniemo¿liwia wyjœæie poza zakres playlisty
 
+8 maja 2014
+- dodanie funkcji zamykania programu do rozwijanego menu
+
 
 
 
