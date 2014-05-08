@@ -27,7 +27,11 @@
 - dodanie funkcjonalnoœci, która uniemo¿liwia wyjœæie poza zakres playlisty
 
 8 maja 2014
-- dodanie funkcji zamykania programu do rozwijanego menu
+- dodanie nowego rozwijanego menu
+- dodanie funkcji ³¹czenia siê z BD
+- dodanie funkcji, która tworzy tabelê w BD(playlista)
+- dodanie funkcji, która przepisuje adresy URL plików z programu do playlisty w BD
+- dodanie funckji, która usuwa playliste z BD
 
 
 
