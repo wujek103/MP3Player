@@ -33,6 +33,16 @@
 - dodanie funkcji, która przepisuje adresy URL plików z programu do playlisty w BD
 - dodanie funckji, która usuwa playliste z BD
 
+29 maja 2014
+- dodanie funkcji, która przepisuje adresy URL plikow z BD z powrotem do programu(dzieki temu
+	(mozemy zapisac nasza playliste w BD i ponownie ja otworzyc po zamknieciu i ponownym uruchomieniu aplikacji)
 
+5 czerwca 2014
+- refaktoryzacja kodu programu(zmiana nazw zmiennych, usuniecie zbednych zmiennych pomocniczych itp.)
+- podzia³ kodu programu na klasy, które zawieraj¹ konkretne etapy algorytmu
+
+12 czerwca 2014
+- utworzenie klasy Client, która wysy³a na Server liste z adresami URL plikow
+- utworzenie klasy Server, która odbiera od Clienta liste z adresami URL plikow
 
 
